@@ -80,7 +80,7 @@
 /* SHA-1 Accelerator - C implementation
    Date: 20-07-2019
    submitted by:
-   Jishnu Murali Thampan - 762574, jishnu.thampan@stud.h-da.de
+   Jishnu Murali Thampan - jishnu.mt@gmail.com
 */
 #include "sys/alt_stdio.h"
 #include "system.h"
