@@ -1,8 +1,5 @@
 /* SHA-1 Accelerator - System verilog implementation
    Date: 20-07-2019
-   submitted by:
-	Jishnu Murali Thampan - 762574, jishnu.thampan@stud.h-da.de
-	George Sebastian - 762610, george.sebastian@stud.h-da.de
 */
 module top_level_sys(
 	(* chip_pin = "AF14" *) input logic clk,
