@@ -1,8 +1,7 @@
 /* SHA-1 Accelerator - System verilog implementation
    Date: 20-07-2019
    submitted by:
-	Jishnu Murali Thampan - 762574, jishnu.thampan@stud.h-da.de
-	George Sebastian - 762610, george.sebastian@stud.h-da.de
+	Jishnu Murali Thampan
 */
 
 /* Register Usage Information:
