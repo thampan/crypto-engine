@@ -1,7 +1,5 @@
 /* SHA-1 Accelerator - System verilog implementation
    Date: 20-07-2019
-   submitted by:
-	Jishnu Murali Thampan - 762574, jishnu.thampan@stud.h-da.de
 */
 
 package state_machine_definitions;
